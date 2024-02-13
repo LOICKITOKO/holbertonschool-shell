@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -c hello vincent:guillaume
+chown __from= vincent:guillaume hello
