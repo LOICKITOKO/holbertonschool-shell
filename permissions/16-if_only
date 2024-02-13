@@ -1,2 +1,2 @@
-:#!/bin/bash
+#!/bin/bash
 chown -c vincent:guillaume hello
